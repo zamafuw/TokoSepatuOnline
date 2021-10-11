@@ -1,0 +1,25 @@
+Hasil dan Pembahasan
+A.      Analisis Kebutuhan Perangkat Lunak
+Program Aplikasi yang dibuat yaitu aplikasi online shop yang dikhusus kan dalam penjualan sepatu, 
+Berbeda dengan online shop pada umunya aplikasi ini bersifat aplikasi milik pribadi yaitu aplikasi dari toko milik sendiri. 
+Aplikasi online shop sepatu pada toko ini dirancang untuk memudahkan calon pembeli dalam melihat produk maupun melakukan transaksi secara daring. 
+Menampilkan informasi produk apa saja yang tersedia oleh toko, produk lama maupun baru. 
+enyediakan layanan transaksi kepada pembeli secara online kemudian produk yang dibeli dapat di antar ke alamat pembeli dengan bantuan jasa pengiriman barang yang tersedia.
+ 
+Berikut ini sepesifikasi kebutuhan (system requirement) dari aplikasi onlone shop toko sepatu. 
+User atau calon pembeli menginginkan kemudahan dan kepraktisan untuk pembelian sepatu, tidak perlu mengunjungi toko untuk melihat produk yabg tersedia. 
+Dapat melakukan transaksi dimanapun kapanpun dengan pemilihan cara pembayaran yang banyak. 
+Oleh karena itu diperlukan sebuah solusi dari masalah tersebut dengan merancang aplikasi yang mendukung proses jual beli yang dapat diakses 
+user secara online dimanapun kapanpun juga memudahkan toko dalam memasarkan produknya.
+
+Halaman User 	: 
+A1. User melakukan Login atau Register jika belum memiliki akun 
+A2. User dapat menambahkan produk ke daftar belanja
+A3. User melakukan checkout barang
+A4. User dapat melakukan transaksi pembelian sepatu
+
+Halaman Admin	:
+B1. Admin dapat mengelola data user
+B2. Admin dapat mengelola data produk
+B3. Admin dapat mengelola data transaksi
+B4. Admin dapat mengelola data pemesanan
