@@ -1,7 +1,7 @@
 A. Analisis Kebutuhan Perangkat Lunak
 
-    Program Aplikasi yang dibuat yaitu aplikasi online shop yang dikhusus kan dalam penjualan sepatu. A
-   plikasi online shop sepatu pada toko ini dirancang untuk memudahkan calon pembeli dalam melihat produk maupun melakukan transaksi secara daring. 
+    Program Aplikasi yang dibuat yaitu aplikasi online shop yang dikhusus kan dalam penjualan sepatu. 
+   Aplikasi online shop sepatu pada toko ini dirancang untuk memudahkan calon pembeli dalam melihat produk maupun melakukan transaksi secara daring. 
    Menampilkan informasi produk apa saja yang tersedia oleh toko, produk lama maupun baru. 
    Menyediakan layanan transaksi kepada pembeli secara online kemudian produk yang dibeli dapat di antar ke alamat pembeli dengan bantuan jasa pengiriman barang yang tersedia.
 
@@ -9,7 +9,7 @@ A. Analisis Kebutuhan Perangkat Lunak
    User atau calon pembeli menginginkan kemudahan dan kepraktisan untuk pembelian sepatu, tidak perlu mengunjungi toko untuk melihat produk yabg tersedia.
    Dapat melakukan transaksi dimanapun kapanpun dengan pemilihan cara pembayaran yang banyak. 
    Oleh karena itu diperlukan sebuah solusi dari masalah tersebut dengan merancang aplikasi yang mendukung proses jual beli yang dapat diakses user secara online 
-   dimanapun kapanpun juga memudahkan toko dalam memasarkan produknya
+   dimanapun kapanpun juga memudahkan toko dalam memasarkan produknya.
 
    Halaman User 	: 
    A1. User melakukan Login atau Register jika belum memiliki akun 
@@ -38,11 +38,11 @@ B. Desain
 
 C. Code 
 
-   Penulis menggunakan bahasa pemograman Python dan HTML dalam membuat script coding. Program serta Mysql untuk database.
+   Penulis menggunakan bahasa pemograman Python dan HTML dalam membuat script coding Program dan Mysql untuk database.
    
 D. Testing 
 
-    Usability testing merupakan sebuah metode untuk mengevaluasi user experience (UX)  terhadap software ataupun website yang dibuat.
+    Usability testing merupakan sebuah metode untuk mengevaluasi user experience terhadap software ataupun website yang dibuat.
    Usability Testing perlu dilakukan untuk mengetahui lebih dulu kemungkinan kendala penggunaan aplikasi yang akan dihadapi oleh pengguna. 
    Hal ini karena kita belum tentu menggunakan aplikasi tersebut sehingga perlu dilakukan uji coba terlebih dahulu pada user yang sesungguhnya untuk mendapatkan umpan balik.
    
