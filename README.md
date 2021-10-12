@@ -1,7 +1,7 @@
 # TokoSepatuOnline
-Pembuatan Aplikasi Dengan Metode Waterfall
+Pembuatan Aplikasi dengan Metode Waterfall
 
-List Kelompok
+          Kelompok 2
 1. 5200411099 - Zam Afuw Imama S
 2. 5200411101 - M. Iqbal Hasani
 3. 5200411104 - Damar Prasetyo N
