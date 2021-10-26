@@ -1,9 +1,9 @@
-                Tanggapan Cliet
+                Tanggapan Client
 
-1. roselilie          kelompok 7 : Tambahin form UserName di halaman register
-2. aliefa             kelompok 7 : Perlu ditambahakan login akun melalui facebook dan google
-3. naafi              kelompok 7 : ukuran tombol home perlu diperbesar dan tambahkan data profil
-4. praja              kelompok 7 : Tambahkan laporan data penjualan, ukuran choose kategori perlu dikecilkan karena memenuhi halaman home, ditambahkan menu opsi
+1. Roselilie          kelompok 7 : Tambahin form UserName di halaman register
+2. Aliefa             kelompok 7 : Perlu ditambahakan login akun melalui facebook dan google
+3. Naafi              kelompok 7 : ukuran tombol home perlu diperbesar dan tambahkan data profil
+4. Praja              kelompok 7 : Tambahkan laporan data penjualan, ukuran choose kategori perlu dikecilkan karena memenuhi halaman home, ditambahkan menu opsi
                                  
 5. M.taufiq Ifannur   kelompok 4 : Di halaman register tambahin tombol untuk kembali ke menu login
-6. haris              kelompok 4 : BUat Pop up di menu Home untuk sing in, log out, profil dll
+6. Haris              kelompok 4 : BUat Pop up di menu Home untuk sing in, log out, profil dll
