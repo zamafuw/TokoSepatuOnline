@@ -1,0 +1,7 @@
+1. roselilie          kelompok 7 kolom username tidak ada
+2. aliefa             kelompok 7 perlu ditambahakan login aku melalui facebook dan google
+3. naafi              kelompok 7 ukuran tombol home perlu diperbesar, ditambahkan data profil
+4. praja              kelompok 7 menambahkan laporan data dari penjualan, ukuran choose kategori perlu
+                                 dikecilkan karena memenuhi halaman home, ditambahkan menu opsi edit_hapus_ditambahkan  
+5. M.taufiq Ifannur   kelompok 4 kenapa tidak ada username di dalam halaman register
+6. haris              kelompok 4 tombol logout dipisah dengan keranjang agr tidak salah pencet
