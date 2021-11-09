@@ -1,0 +1,46 @@
+
+A.	Rencana Kebutuhan 
+
+1.1 (Requirements Planning)  
+Pada tahapan ini, User dan penganalisis akan bertemu untuk mengidentifikasi tujuan dibangunnya aplikasi, berupa interaksi yang 
+dilakukan untuk mendapatkan informasi aplikasi yang diinginkan setiap User, Dari interaksi tersebut diharapkan dapat menyelesaikan
+masalah-masalah pada User dalam sisi Penyumbangan. Analisa masalah yang dilakukan oleh peneliti ini adalah untuk menyempurnakan
+kekurangan dari penelitian sebelumnya tentang Aplikasi Sumbangan Bencana Alam, Peneliti terus mengembangkan aplikasi ini yang 
+bertujuan untuk melengkapi kekurangan dari penelitian sebelumnya dengan menjadikan aplikasi tersebut menjadi aplikasi berbasis
+web, dimana pada aplikasi tersebut juga akan terdapat google maps yang berfungsi untuk memberitahukan lokasi dari setiap bencana alam yang terjadi.
+ 
+
+Dokumen ini yang akan menjadi acuan system agar aplikasi yang dijalankan tidak memiliki kendala dalam pengoperasiannya. 
+Berikut adalah fitur yang dibutuhkan di dalam sebuah aplikasi Sumbangan Bencana Alam yang di bangun oleh peneliti:
+ 	
+No	Fitur
+1	Daftar
+2	Login
+3	Nama Donatur (Profil)
+4	Laporan Informasi Bencana Alam
+5	Melihat lokasi bencana alam
+6	Melakukan Sumbangan Dana
+7	Metode Pembayaran/Penyumbangan
+8	Konfirmasi Metode Pembayaran/Penyumbangan
+9	Melihat Laporan Sumbangan
+10	Ubah Password
+11	Bantuan
+
+Untuk mendukung sistem aplikasi Sumbangan Bencana Alam, perlu dukungan dari sisi hardware dan software yang memadai, 
+sehingga pengembangan sistem yang akan dilakukan dapat menghasilkan sistem yang sesuai dengan kebutuhan yang ada.
+
+1. Kebutuhan Hardware (Perangkat Keras)
+    Perangkat komputer yang di gunakan dalam penelitian ini sebagai berikut :
+       a. Processor : Intel Core i7 Gen 11 CPU 1.7 Ghz
+       b. SDD : 1 TB
+       c. VGA : NVIDIA Geforce 1050 Ti 4 GB
+       d. RAM : 4 GB
+       e. Layar : 14 inch
+  
+2. Kebutuhan Software (Perangkat Lunak)
+    Adapun perangkat lunak yang digunakan dalam penelitian ini antara lain :
+      a. Draw.io
+      b. Adobe XD
+      c. Mysql
+      d. Xampp
+      e. Visual Studio Code
