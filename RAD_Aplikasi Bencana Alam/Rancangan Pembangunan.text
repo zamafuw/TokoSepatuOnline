@@ -1,1 +1,39 @@
+Rancangan Pembangunan aplikasi 
+Pada proses ini adalah gambaran dari rancangan pembangunan aplikasi yang akan dibangun yaitu aplikasi sumbangan bencana alam.
+
+2.1 Tabel tahapan pertama pembuatan fitur user
+     
+Proses pembuatan fitur user pada hari pertama yaitu membuat fitur tabel, login, dan profil, hari kedua membuat fitur 
+yang berhubungan dengan informasi diantaranya adalah melihat laporan informasi bencana alam dan Melihat sumbangan dana, 
+lalu hari ketiga membuat fitur transaksi awal yaitu melakukan sumbangan, hari keempat membuat fitur transaksi berikutnya 
+yaitu memilih metode pembayaran, hari kelima membuat fitur transaksi terakhir yaitu konfirmasi pembayaran, hari keenam fitur
+melihat laporan sumbangan, hari ketuju menambahkan fitur ubah password, bantuan dan juga logout untuk user
+
+2.2 Tabel tahapan pertama pembuatan fitur admin
+
+
+Proses pembuatan fitur admin pada hari delapan membuat fitur login, hari kesembilan membuat input data penyumbang, 
+hari sepuluh melihat daftar penyumbang, hari sebelelas membuat fitur informasi yang dapat ditambahkan, hari keduabelas 
+fitur mengkonfirmasi pembayaran user, hari ketigabelas fitur untuk mengelola sumbangan, hari keempat belas membuat fitur ubah password beserta logout
+
+
+
+proses iterasi fitur
+
+proses uji coba aplikasi dalam bentuk prototype dari tahapan pembuatan fitur  menunjukkan keberhasil 
+percobaan pada semua fitur. tahapan Design Workshop yang dilakukan pada proses di atas, terdapat sebuah
+proses iterasi sebanyak dua kali, sampai diperoleh aplikasi yang di inginkan.
+
+proses tahapan RAD
+
+Dari tabel di atas dapat disimpulkan bahwa proses dari tahapan RAD mulai dari requirement planning,
+design workshop sampai implementation akan didapatkan sebuah estimasi kecepatan pembangunan aplikasi.
+
+Implementasi
+Pada tahap ini dilakukan implementasi pembuatan aplikasi sumbangan bencana alam menggunakan bahasa pemrograman PHP(Codeigniter), dan Java. 
+Ada dua tahapan berdasarkan Rancangan pembangunan aplikasi sebelumnya diantaranya, Membuat fitur User terlebih dahulu. 
+Ada 11 fitur user yang akan dibuat dalam waktu 7 hari. Tahap kedua yaitu membuat fitur-fitur untuk admin ada 8 fitur. 
+Tahap kedua dikerjakan pada hari kedelapan hingga hari ke empat belas
+
+
 
