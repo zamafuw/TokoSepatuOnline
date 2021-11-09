@@ -2,13 +2,10 @@
 A.	Rencana Kebutuhan 
 
 1.1 (Requirements Planning)  
-Pada tahapan ini, User dan penganalisis akan bertemu untuk mengidentifikasi tujuan dibangunnya aplikasi, berupa interaksi yang 
+mengidentifikasi tujuan dibangunnya aplikasi, berupa interaksi yang 
 dilakukan untuk mendapatkan informasi aplikasi yang diinginkan setiap User, Dari interaksi tersebut diharapkan dapat menyelesaikan
-masalah-masalah pada User dalam sisi Penyumbangan. Analisa masalah yang dilakukan oleh peneliti ini adalah untuk menyempurnakan
-kekurangan dari penelitian sebelumnya tentang Aplikasi Sumbangan Bencana Alam, Peneliti terus mengembangkan aplikasi ini yang 
-bertujuan untuk melengkapi kekurangan dari penelitian sebelumnya dengan menjadikan aplikasi tersebut menjadi aplikasi berbasis
-web, dimana pada aplikasi tersebut juga akan terdapat google maps yang berfungsi untuk memberitahukan lokasi dari setiap bencana alam yang terjadi.
- 
+masalah-masalah pada User dalam sisi Penyumbangan. Analisa masalah yang dilakukan 
+ini adalah untuk mebuat aplikasi sumbangan bencana alam 
 
 Dokumen ini yang akan menjadi acuan system agar aplikasi yang dijalankan tidak memiliki kendala dalam pengoperasiannya. 
 Berikut adalah fitur yang dibutuhkan di dalam sebuah aplikasi Sumbangan Bencana Alam yang di bangun oleh peneliti:
